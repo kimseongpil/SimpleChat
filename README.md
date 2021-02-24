@@ -1,2 +1,2 @@
 # SimpleChat
-ASP.NET Core SignalR 강의 데보
+ASP.NET Core SignalR 강의 데모
